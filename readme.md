@@ -31,4 +31,4 @@ For "Theater Outcomes Based on Launch Date" I would create a successful rate gra
 
 
 
-[Read again](https://github.com/zk100yyy/Bootcamp/new/main#1-overview-of-project) Or [Watch some youtube video](https://www.google.com)
+[Read again](https://github.com/zk100yyy/Bootcamp/blob/main/readme.md#analysis-of-module-1-challenge) Or [Watch some youtube video](https://www.youtube.com)
